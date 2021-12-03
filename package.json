@@ -1,0 +1,22 @@
+{
+  "name": "testing-api",
+  "version": "1.0.0",
+  "description": "api for getting differnt furniture products",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nirbhay007/furnitures-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nirbhay007/furnitures-api/issues"
+  },
+  "homepage": "https://github.com/Nirbhay007/furnitures-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
